@@ -11,3 +11,5 @@ Blob it’s used to extract feature from the image and to resize them. YOLO acce
 320×320 it’s small so less accuracy but better speed
 609×609 it’s bigger so high accuracy and slow speed
 416×416 it’s in the middle and you get a bit of both.
+
+https://www.youtube.com/watch?v=9AycYn9gj1U
